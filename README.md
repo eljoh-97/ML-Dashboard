@@ -23,7 +23,7 @@ Grund idé
 ## Användning
 1. #### Starta den interactiva appen:
    * Navigera till projektmappen i din terminal och kör:
-   * python project_ai.py
+   * python main.py
    * Öppna dash applicationen via terminalen eller i webbläsaren med följande URL: http://127.0.0.1:8050/
 
 2. #### UI-guidence:
