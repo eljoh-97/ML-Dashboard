@@ -9,7 +9,7 @@ Grund idé
 
 ### Steg
 1. **Klonar repo:**  
-    git clone: https://github.com/eljoh-97/ITHS-AI-Pythonprogrammering-HT24/tree/master/project_ai
+    git clone: https://github.com/eljoh-97/ML-Dashboard
 2. **Installera eventuella beroenden:**  
     pip install pandas
     pip install numpy
@@ -39,7 +39,7 @@ Grund idé
 
 ## Kontakt
 * Namn: Elias Johansson
-* E-post: elias.johansson@iths.se
+* E-post: ezza97@gmail.com
 * GitHub: https://github.com/eljoh-97
 
 ## Teknologier som används
