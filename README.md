@@ -1,6 +1,6 @@
 # Machine Learning Dashboard
 Grund idé
-* Problem: Jag vill kunna förstå vad som påverkar kunders beslut att genomföra ett köp eller inte, i B2B-buisness där försäljningscykeln kan vara lång och ibland lite komplex för att förstå anledningarna. Bland annat vilka är nyckelfaktorerna som driver kunder till ett köp etc.? Detta kommer att hjälpa företag att få bättre förståelse och ge rätt insikter kring hur man ska agera i t.ex försäljningsstratergier, prisättningar. Problemet kan vara ett regressionsproblem men även classificeringsproblem, i projektet har jag använt random forest för att kunna bygga en modell som kan visa vilka nyckelfaktorer som spelar in för sannolikheterna för ett köp av en kund. 
+* Målet är att förstå vilka faktorer som påverkar kunders beslut att genomföra ett köp eller inte inom B2B-verksamheter, där försäljningscykeln ofta är lång och komplex. Genom att identifiera nyckelfaktorer som driver köpbeslut kan företag få värdefulla insikter för att optimera exempelvis försäljningsstrategier och prisättningar. Problemet kan både betraktas som ett regressions- och ett klassificeringsproblem. I detta projekt har jag använt en Random Forest-modell för att bygga en prediktiv modell som visar vilka faktorer som påverkar sannolikheten för att en kund genomför ett köp.
 
 
 ## Installation
